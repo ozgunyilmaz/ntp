@@ -6,7 +6,7 @@ With the increasing use of social media, people share their feelings and thought
 ## ‎Dataset Information
 A third party dataset which is available at https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets, was used.
 
-‎## Code Information
+## Code Information
 
 The code was implemented in Python and developed using Jupyter Notebook environment.
 
