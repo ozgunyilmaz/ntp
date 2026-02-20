@@ -7,11 +7,11 @@ With the increasing use of social media, people share their feelings and thought
 A third party dataset which is available at https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets, was used.
 
 ‎## Code Information
+
 The code was implemented in Python and developed using Jupyter Notebook environment.
 
 ## ‎Usage Instructions
 First, dataset should be downloaded and the downloaded file (vaccination_all_tweets.csv) should be placed under same folder with the tez_kod.ipynb file. Then the source code should be executed.
-
 
 ## ‎Requirements – Any dependencies
 ‎Pandas, Numpy, SciKit-Learn, NLTK, Mathplotlib packages were used for machine learning, whereas VADER (Hutto and Gilbert, 2014) and TextBlob (Loria et al., 2024) software libraries were used to do sentiment analysis and calculating polarities of the X posts.
